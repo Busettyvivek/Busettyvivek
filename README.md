@@ -10,7 +10,7 @@
 - 💡 I love building clean, responsive web apps
 - 👨‍💻 9 months of experience building production-grade web solutions
 - 💬 Ask me about **Python**, **SQL**, **OOPs**, **HTML**, **CSS**, **JavaScript**, **React**, **Redux**, **ASP.NET MVC**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) <!-- Add your LinkedIn link -->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bmsvivek/?trk=opento_sprofile_topcard/) <!-- Add your LinkedIn link -->
 - ⚡ Fun fact: I enjoy solving real-world problems with code!
 
 ---
@@ -54,7 +54,7 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bmsvivek/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Add your actual LinkedIn link above -->
 </p>
 
